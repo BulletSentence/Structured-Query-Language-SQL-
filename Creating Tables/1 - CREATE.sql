@@ -1,5 +1,11 @@
-CREATE TABLE groceries (
+CREATE TABLE IF NOT EXISTS groceries (
 id INTEGER PRIMARY KEY,
 name TEXT, 
 quantity INTEGER
 );
+
+CREATE TABLE IF NOT EXISTS Books(
+id INTEGER PRIMARY KEY,
+ name TEXT,
+ rating INTEGER
+ );
