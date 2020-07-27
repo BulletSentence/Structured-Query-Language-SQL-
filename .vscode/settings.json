@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "db02",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "root",
+            "password": "admin",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
