@@ -1,6 +1,4 @@
 --
--- File generated with SQLiteStudio v3.2.1 on Fri Aug 28 16:23:20 2020
---
 -- Text encoding used: System
 --
 PRAGMA foreign_keys = off;
